@@ -33,3 +33,12 @@ The workflow:
 3. Run:
    ```matlab
    main
+
+## 📖 Reference
+
+For the theoretical foundation and original introduction of the Lattice Kalman Filter, please refer to:
+
+**A. Rahimnejad, S. A. Gadsden, and M. Al-Shabi,**  
+*“Lattice Kalman Filters,”* IEEE Signal Processing Letters, vol. 28, pp. 1355–1359, 2021.  
+[https://doi.org/10.1109/LSP.2021.3089935](https://doi.org/10.1109/LSP.2021.3089935)
+
